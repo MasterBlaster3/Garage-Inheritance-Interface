@@ -1,0 +1,16 @@
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.csproj.AssemblyReference.cache
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.AssemblyInfoInputs.cache
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.AssemblyInfo.cs
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Josep\workspace\garysgarage-inheritance\bin\Debug\net5.0\garysgarage-inheritance.exe
+C:\Users\Josep\workspace\garysgarage-inheritance\bin\Debug\net5.0\garysgarage-inheritance.deps.json
+C:\Users\Josep\workspace\garysgarage-inheritance\bin\Debug\net5.0\garysgarage-inheritance.runtimeconfig.json
+C:\Users\Josep\workspace\garysgarage-inheritance\bin\Debug\net5.0\garysgarage-inheritance.runtimeconfig.dev.json
+C:\Users\Josep\workspace\garysgarage-inheritance\bin\Debug\net5.0\garysgarage-inheritance.dll
+C:\Users\Josep\workspace\garysgarage-inheritance\bin\Debug\net5.0\garysgarage-inheritance.pdb
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.dll
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\refint\garysgarage-inheritance.dll
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.pdb
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\garysgarage-inheritance.genruntimeconfig.cache
+C:\Users\Josep\workspace\garysgarage-inheritance\obj\Debug\net5.0\ref\garysgarage-inheritance.dll

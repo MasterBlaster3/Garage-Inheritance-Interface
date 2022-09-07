@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhyK5XnVoZ0Ss7+0oPTvBomuj8ERD8UQDSgoiEwNYN6Nm8/BWoJpD77ZrrtAITH1yM/RbsWMZTnS5RlxRiS0hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josep\\workspace\\garysgarage-inheritance\\garysgarage-inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
